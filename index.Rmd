@@ -1,0 +1,13 @@
+---
+title: "This is a test doc"
+author: "Kristine Gesulga"
+date: "3/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#Always preserve this code chunk (global options; tells R and RMarkdown how to format diff feature for knitting)
+```
+
+This is a first github page doc! I'm very excited!
